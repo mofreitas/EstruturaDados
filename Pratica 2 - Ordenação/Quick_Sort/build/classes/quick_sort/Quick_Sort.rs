@@ -1,0 +1,2 @@
+quick_sort.Quick_Sort
+quick_sort.Quicksort
